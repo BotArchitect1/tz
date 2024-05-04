@@ -1,0 +1,17 @@
+loger.py [LINE:41] #INFO   [04.05.2024 11:52:40]  Wallet cli app STARTING!!!
+loger.py [LINE:41] #INFO   [04.05.2024 11:58:54]  Wallet cli app STARTING!!!
+add_transaction.py [LINE:25] #INFO   [04.05.2024 11:59:32]  Transaction for the amount 23100.0:Расход added
+loger.py [LINE:41] #INFO   [04.05.2024 12:24:03]  Wallet cli app STARTING!!!
+loger.py [LINE:41] #INFO   [04.05.2024 12:24:32]  Wallet cli app STARTING!!!
+add_transaction.py [LINE:25] #INFO   [04.05.2024 12:25:05]  Transaction for the amount 25000.0:Доход added
+edit_transaction.py [LINE:31] #INFO   [04.05.2024 12:27:48]  An error list index out of range occurred while editing a transaction
+edit_transaction.py [LINE:34] #INFO   [04.05.2024 12:30:00]  Transaction for the index 0 edited
+edit_transaction.py [LINE:34] #INFO   [04.05.2024 12:30:24]  Transaction for the index 0 edited
+loger.py [LINE:41] #INFO   [04.05.2024 12:33:55]  Wallet cli app STARTING!!!
+edit_transaction.py [LINE:31] #INFO   [04.05.2024 12:34:14]  An error Wallet.edit_transaction() takes 2 positional arguments but 6 were given occurred while editing a transaction
+loger.py [LINE:41] #INFO   [04.05.2024 12:38:24]  Wallet cli app STARTING!!!
+edit_transaction.py [LINE:48] #INFO   [04.05.2024 12:38:40]  Transaction for the index 0 edited
+loger.py [LINE:41] #INFO   [04.05.2024 13:25:52]  Wallet cli app STARTING!!!
+loger.py [LINE:41] #INFO   [04.05.2024 14:06:45]  Wallet cli app STARTING!!!
+wallet.py [LINE:108] #INFO   [04.05.2024 14:07:14]  An error object of type 'float' has no len() occurred
+add_transaction.py [LINE:25] #INFO   [04.05.2024 14:07:14]  Transaction for the amount 2500.0:Расход added
