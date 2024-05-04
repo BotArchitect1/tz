@@ -38,7 +38,7 @@
 Все транзакции хранятся в текстовом файле transactions.xlsx в следующем формате:
 
 <div id="header">
-  <img src=""/>
+  <img src="https://github.com/PavelShaura/wallet_cli_app/blob/main/img/img.png"/>
 </div>
 
 Приложение автоматически загружает данные из файла при запуске и сохраняет изменения при добавлении или редактировании транзакций.
